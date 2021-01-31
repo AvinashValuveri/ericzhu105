@@ -14,6 +14,10 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
 <h4>Services & Frameworks I Use</h4>
 
@@ -23,6 +27,9 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=61DAFB)
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 
 
 <h4>Things I Want to Learn & Things I am Currently Learning</h4>
@@ -38,13 +45,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
+
+
 ---
 
 <h1>My Github Stats &#x1f4c8;</h1>
